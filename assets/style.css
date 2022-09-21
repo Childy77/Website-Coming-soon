@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.top-menu{
+    background-color: blue;
+    color: yellowgreen;
+    text-align: right;
+    padding: 20px;
+}
+
+.top-menu ul li{
+    display: inline; 
+    margin: 0px, 5px, 0px, 5px;
+}
+
+.main-content{
+    text-align: center;
+    background-color: aquamarine;
+    border-top: 10px, solid, red;
+
+}
+
+.main-content h1{
+
+}
+
+.main-content img{
+
+}
+
+.main-content p{
+
+}
+
+.lower-content{
+    text-align: center;
+    background-color: blueviolet;
+
+}
+
+footer{
+    text-align: center;
+    background-color: blue;
+}
